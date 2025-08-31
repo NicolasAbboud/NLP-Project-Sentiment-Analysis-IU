@@ -15,6 +15,7 @@ This project implements a **Natural Language Processing (NLP)** system for senti
 
 ## 📂 Project Structure  
 
+![Project Structure](https://github.com/NicolasAbboud/NLP-Project-Sentiment-Analysis-IU/blob/main/Screenshot_2.png?raw=true)
 
 ---
 
