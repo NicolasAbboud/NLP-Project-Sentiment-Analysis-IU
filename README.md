@@ -20,7 +20,8 @@ This project implements a **Natural Language Processing (NLP)** system for senti
 
 ## 📊 Dataset  
 
-For this project, the **Stanford Large Movie Review Dataset (IMDb dataset)** was used, which is a widely used benchmark in sentiment analysis research:  
+For this project, the **Stanford Large Movie Review Dataset (IMDb dataset)** was used, which is a widely used benchmark in sentiment analysis research:
+Dataset Link: https://ai.stanford.edu/~amaas/data/sentiment/ 
 
 > Maas, A., Daly, R., Pham, P., Huang, D., Ng, A., & Potts, C. (2011). *Learning Word Vectors for Sentiment Analysis*. In Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (pp. 142–150). Association for Computational Linguistics. https://aclanthology.org/P11-1015/  
 
@@ -89,11 +90,11 @@ Sentiment: Positive :) (score=0.8704)
 - Improving interpretability with attention or explainable AI methods.
 
 ## 📚 References
-- Birjali, M., Kasri, M., & Beni-Hssane, A. (2021). A Comprehensive Survey on Sentiment analysis: Approaches, Challenges and Trends. Knowledge-Based Systems, 226(1), 107–134. https://doi.org/10.1016/j.knosys.2021.107134
+> Birjali, M., Kasri, M., & Beni-Hssane, A. (2021). A Comprehensive Survey on Sentiment analysis: Approaches, Challenges and Trends. Knowledge-Based Systems, 226(1), 107–134. https://doi.org/10.1016/j.knosys.2021.107134
 
-- Maas, A., Daly, R., Pham, P., Huang, D., Ng, A., & Potts, C. (2011). Learning Word Vectors for Sentiment Analysis. In Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (pp. 142–150). Association for Computational Linguistics. https://aclanthology.org/P11-1015/
+> Maas, A., Daly, R., Pham, P., Huang, D., Ng, A., & Potts, C. (2011). Learning Word Vectors for Sentiment Analysis. In Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (pp. 142–150). Association for Computational Linguistics. https://aclanthology.org/P11-1015/
 
-- Zhang, L., Wang, S., & Liu, B. (2018). Deep learning for sentiment analysis: A survey. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 8(4). https://doi.org/10.1002/widm.1253
+> Zhang, L., Wang, S., & Liu, B. (2018). Deep learning for sentiment analysis: A survey. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 8(4). https://doi.org/10.1002/widm.1253
 
 
 
