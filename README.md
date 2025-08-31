@@ -20,7 +20,7 @@ This project implements a **Natural Language Processing (NLP)** system for senti
 
 ## 📊 Dataset  
 
-For this project, the **[Stanford Large Movie Review Dataset (IMDb dataset)}(https://ai.stanford.edu/~amaas/data/sentiment/)** was used, which is a widely used benchmark in sentiment analysis research:
+For this project, the **[Stanford Large Movie Review Dataset (IMDb dataset)](https://ai.stanford.edu/~amaas/data/sentiment/)** was used, which is a widely used benchmark in sentiment analysis research:
 
 > Maas, A., Daly, R., Pham, P., Huang, D., Ng, A., & Potts, C. (2011). *Learning Word Vectors for Sentiment Analysis*. In Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (pp. 142–150). Association for Computational Linguistics. https://aclanthology.org/P11-1015/  
 
